@@ -1,4 +1,4 @@
-package associacao.dominio;
+package devdojo.associacao.dominio;
 
 public class Jogador {
     private String nome;

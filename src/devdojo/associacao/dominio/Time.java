@@ -1,4 +1,4 @@
-package associacao.dominio;
+package devdojo.associacao.dominio;
 
 public class Time {
     private String nome;

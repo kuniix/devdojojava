@@ -1,6 +1,6 @@
-package associacao.test;
+package devdojo.associacao.test;
 
-import associacao.dominio.Jogador;
+import devdojo.associacao.dominio.Jogador;
 
 public class JogadorTest {
     public static void main(String[] args) {
