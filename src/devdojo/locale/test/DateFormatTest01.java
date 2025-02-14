@@ -1,4 +1,4 @@
-package devdojo.datas.test;
+package devdojo.locale.test;
 
 import java.text.DateFormat;
 import java.util.Calendar;
